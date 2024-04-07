@@ -1,22 +1,10 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/YyUO0xtt)
 # COMP2150  - Level Design Document
-### Name: [your name]
-### Student number: [your student number] 
-
-This document discusses and reflects on the design of your platformer level for the Level Design assessment. It should be 1500 words. Make sure you delete this and all other instructional text throughout the document before checking your word count prior to submission. Hint: You can check word count by copying this text into a Word or Google doc.
-
-Your document must include images. To insert an image into your documentation, place it in the "DocImages" folder in this repo, then place the below text where you want the image to appear:
-
-```
-![Place any alt text here](DocImages/<IMAGE NAME AND FILE EXTENSION>)
-```
-
-Example:
-
-![This is the alt text for an image!](DocImages/exampleimage.png)
+### Name: [Pramod_Sinhala_Pedige]
+### Student number: [47849762] 
 
 ## 1. Player Experience (~700 words)
-Outline and justify how your level design facilitates the core player experience goals outlined in the assignment spec. Each section should be supported by specific examples and screenshots of your game encounters that highlight design choices made to facilitate that particular experience.
+
 
 ### 1.1. Discovery
 The game includes many mechanics which the player requires to learn in order to progress.The initial discovery the player may make, are the movement and close range enemy known as ‘chomper’ as well as how to avoid the said enemy. After successfully evading ‘chomper’, player then presented with a long range enemy known as a ‘spitter’ which does damage over projectiles which the player discovers to avoid and get out of the enemy range of attack. After these discoveries, player is presented with a passthrough platform which requires the player to combine various forms of movement combinations to discover how to go to the below level while also being attacked by a ‘spitter’.If a player in reckless, they will discover that ’spikes’ will pose an danger to their adventure.In addition to these discoveries, players are expected to understand spikes,acid, checkpoints, pushable boxes, breakable walls, health boxes, weapons of staff and gun. Players are moderately under pressure to discover the world so that they wont be bored or overwhelmed during the play.
@@ -39,36 +27,50 @@ The game’s objective is to collect 3 keys in order to open the door and progre
 
 
 ## 2. Core Gameplay (~400 words)
-A section on Core Gameplay, where storyboards are used to outline how you introduce the player to each of the required gameplay elements in the first section of the game. Storyboards should follow the format provided in lectures.
 
-Storyboards can be combined when multiple mechanics are introduced within a single encounter. Each section should include a sentence or two to briefly justify why you chose to introduce the mechanic/s to the player in that sequence.
-
-You should restructure the headings below to match the order they appear in your level.
-
-### 2.1. Acid
-![acid!](DocImages/Acid.png)
-### 2.2. Checkpoints
-![checkpoint!](DocImages/Acid.png)
-### 2.3. Chompers
+### 2.1. Chompers
+First enemy to be introduced in the level because of its inability to attack at long range, thus allowing the player to avoid its attacks.
 ![chomper!](DocImages/storyboardchomper.png)
-### 2.4. Health Pickups
-![Health!](DocImages/storyboardpassthrough.png)
-### 2.5. Keys
-![keys!](DocImages/Acid.png)
-### 2.6. Moving Platforms
-![Movingplatform!](DocImages/Revisemovingplat.drawio.png)
-### 2.7. Passthrough Platforms
+
+### 2.2. Spitters
+2nd enemy to be introduces as the player would have learned movemnt controls. Slow rate of fire allows the player to move swiftly
+![spitter!](DocImages/storyboardspitter.png)
+
+### 2.3. Passthrough Platforms
+Encouraged the player to find a way to descend to the below level before getting attacked by the enemy
 ![passthroughplatforms!](DocImages/storyboardpassthrough.png)
 
-### 2.8. Spikes
+### 2.4. Spikes
+Player would rush to get away from enemies, thus making them fall onto the spikes and let them discover its danger
 ![spikes!](DocImages/storyboardpassthrough.png)
 
-### 2.9. Spitters
-![spitter!](DocImages/storyboardspitter.png)
+### 2.5. Weapon Pickup (Staff)
+Players have to defend themselves against the enemies as they would not be able to progress towards otherwise and collct the key
+![gun!](DocImages/storyboardpassthrough.png)
+
+### 2.6. Health Pickups
+As a reward after getting attacked by enemies
+![Health!](DocImages/storyboardpassthrough.png)
+
+### 2.7. Checkpoints
+Allows the player to respawn in case they jump into acid and eliminating the need to repeat the level
+![checkpoint!](DocImages/Acid.png)
+
+### 2.8. Acid
+to allow the player to experiment pushbale boxes in combination with acid.
+![acid!](DocImages/Acid.png)
+
+### 2.9. Keys
+If left alone in the open at the very beginning, the value of it will be diminished 
+![keys!](DocImages/Acid.png)
+
+### 2.10. Moving Platforms
+Introduction into a new scenery outside of the rooms and as a new way of travlling.
+![Movingplatform!](DocImages/Revisemovingplat.drawio.png)
+
 ### 2.10. Weapon Pickup (Gun)
 
-### 2.11. Weapon Pickup (Staff)
-![gun!](DocImages/storyboardpassthrough.png)
+
 
 ## 3. Spatiotemporal Design
 
