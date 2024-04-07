@@ -26,9 +26,6 @@ The game includes many mechanics which the player requires to learn in order to 
 ![Disovery!](DocImages/Acidbox.png)
 ![Disovery!](DocImages/Key.png)
 
-
-
-
 ### 1.2. Drama
 At the beginnig of the level, player is presented with an imminent danger of a ‘chomper’ which forces the player to take swift action to avoid the danger. Once they have avoided the 1st danger, the intense pressure gets reduced and allows them to figure out which way to go in order to progress the game. The difficulty of the game is high till the player acquires any of the weapons. After obtaining a weapon, difficulty of the game drops down and gradually increases. Intensity of the game is at medium when the player is required to pass through acid, as any contact with this danger causes immediate death and minor progression lost.The dramatic intensity is at its highest when the play has to defeat many enemies at once during the encounter of collecting the 2nd key. After they have defeated the enemies and achieved the key, health points are presented as rewards for their great performance  in their attacks while also allowing the current space as a resting place.
 
@@ -86,29 +83,16 @@ You should restructure the headings below to match the order they appear in your
 ![secondlevelmap](DocImages/map3.png)
 
 ## 4. Iterative Design (~400 words)
-During the initial planning of this game, I failed to sufficiently include variety of game objects which will allow increase the challenge of the game. In retrospective, this deficiency of challenge appears to have resulted in the game too easy and this resulted in lack of proper engagement with the game by the player. Furthermore, I discovered that pushable boxes float on acid and this mechanic allowed me to see a possibility of using these boxes as a break from frequent platforms made using tiles. I was faced With the struggle of finding a way to properly implement this ideas as sometimes the player would get hit by the invisible hit box of acid and as a designer, I wasn’t allowed to change any properties. 
+During the initial planning of this game, I failed to sufficiently include variety of game objects which will allow increase the challenge of the game. In retrospective, this deficiency of challenge appears to have resulted in the game too easy and this resulted in lack of proper engagement with the game by the player. 
+
+
+
+Furthermore, I discovered that pushable boxes float on acid and this mechanic allowed me to see a possibility of using these boxes as a break from frequent platforms made using tiles. I was faced With the struggle of finding a way to properly implement this ideas as sometimes the player would get hit by the invisible hit box of acid and as a designer, I wasn’t allowed to change any properties. 
 Another issue that was prominent was the lack of sufficient quantity of enemies. After performing several play tests, it was evident that the game was in need of a challenge
 Furthermore, the 1st key placement in initial development attempts made it too easy for players to obtain, thus diminishing the value of the key. Another challenge during designing of this game was the lack of the required feature of acid and checkpoint. After several play tests, I was able to come up with new ideas on how to incorporate all the required features in the game. 
 One of the major doubts I have during the development was the length and difficulty of the game due to lack of peer testing. After finalising the game, I believe the game might have been too long to the inexperienced players, however it was too late to modify the game in a major manner as I’m reaching the required deadline. To elaborate further on the preceding statement, I believe as a result of being exposed to the game frequently, I was able to find the game too easy. As a indie designer of the game, I found it difficult to play test the game as I was a new player to the game which was designed by myself
 In the future iteration of developments, I intend to test the game in hands of the target audience, acquire their feedback regarding what aspects of the game felt too difficult, too easy, confusing and finally modify the game according to the feedback received. By doing these testing, I would be able to refine the game to be more engaging to the targeted demographic.
 
-## Generative AI Use Acknowledgement
 
-
-
-
-### Tool Used: ChatGPT
-**Nature of Use** Finding relevant design theory.
-
-**Evidence Attached?** Screenshot of ChatGPT conversation included in the folder "GenAI" in this repo.
-
-**Additional Notes:** I used ChatGPT to try and find some more relevant design theory that I could apply to my game. After googling them, however, I found most of them were inaccurate, and some didn't exist. One theory mentioned, however, was useful, and I've incorporated it into my work.
-
-### Tool Used: Example
-**Nature of Use** Example Text
-
-**Evidence Attached?** Example Text
-
-**Additional Notes:** Example Text
 
 
