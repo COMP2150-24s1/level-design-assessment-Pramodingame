@@ -66,7 +66,7 @@ A section on Spatiotemporal Design, which includes your molecule diagram and ann
 No additional words are necessary for this section (any words should only be within your images/diagrams).
  
 ### 3.1. Molecule Diagram
-
+![moleculediagram](DocImages/Molecule_diagram.drawio.png)
 ### 3.2. Level Map – Section 1
 ![firstlevelmap](DocImages/firstlevelmap.drawio.png)
 ### 3.3.	Level Map – Section 2
