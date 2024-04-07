@@ -36,29 +36,29 @@ Storyboards can be combined when multiple mechanics are introduced within a sing
 You should restructure the headings below to match the order they appear in your level.
 
 ### 2.1. Acid
-(DocImages/Acid + Check point storyboard.drawio.png)
+![acid!](DocImages/Acid.png)
 ### 2.2. Checkpoints
-(DocImages/Acid + Check point storyboard.drawio.png)
+![checkpoint!](DocImages/Acid.png)
 ### 2.3. Chompers
-(DocImages/Storyboard of Chompers.drawio.png)
+![chomper!](DocImages/storyboardchomper.png)
 ### 2.4. Health Pickups
-(DocImages/Storyboard for passthrough platform, spikes, staff.drawio.png)
+![Health!](DocImages/storyboardpassthrough.png)
 ### 2.5. Keys
-(DocImages/Acid + Check point storyboard.drawio.png)
+![keys!](DocImages/Acid.png)
 ### 2.6. Moving Platforms
 
 ### 2.7. Passthrough Platforms
-(DocImages/Storyboard for passthrough platform, spikes, staff.drawio.png)
+![passthroughplatforms!](DocImages/storyboardpassthrough.png)
 
 ### 2.8. Spikes
-(DocImages/Storyboard for passthrough platform, spikes, staff.drawio.png)
+![spikes!](DocImages/storyboardpassthrough.png)
 
 ### 2.9. Spitters
-(DocImages/Storyboard of spitter.drawio.png)
+![spitter!](DocImages/storyboardspitter.png)
 ### 2.10. Weapon Pickup (Gun)
-(DocImages/Storyboard for passthrough platform, spikes, staff.drawio.png)
 
 ### 2.11. Weapon Pickup (Staff)
+![gun!](DocImages/storyboardpassthrough.png)
 
 ## 3. Spatiotemporal Design
 A section on Spatiotemporal Design, which includes your molecule diagram and annotated level maps (one for each main section of your level). These diagrams may be made digitally or by hand, but must not be created from screenshots of your game. The annotated level maps should show the structure you intend to build, included game elements, and the path the player is expected to take through the level. Examples of these diagrams are included in the level design lectures.
