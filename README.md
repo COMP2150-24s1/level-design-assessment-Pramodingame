@@ -85,6 +85,7 @@ You should restructure the headings below to match the order they appear in your
 ## 4. Iterative Design (~400 words)
 During the initial planning of this game, I failed to sufficiently include variety of game objects which will allow increase the challenge of the game. In retrospective, this deficiency of challenge appears to have resulted in the game too easy and this resulted in lack of proper engagement with the game by the player. 
 
+![secondlevelmap](DocImages/plannedmoleculediagram.png)
 
 
 Furthermore, I discovered that pushable boxes float on acid and this mechanic allowed me to see a possibility of using these boxes as a break from frequent platforms made using tiles. I was faced With the struggle of finding a way to properly implement this ideas as sometimes the player would get hit by the invisible hit box of acid and as a designer, I wasn’t allowed to change any properties. 
