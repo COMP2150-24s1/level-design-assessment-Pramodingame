@@ -46,7 +46,7 @@ You should restructure the headings below to match the order they appear in your
 ### 2.5. Keys
 ![keys!](DocImages/Acid.png)
 ### 2.6. Moving Platforms
-![Movingplatform!](DocImages/Movingplatform.drawio.png)
+![Movingplatform!](DocImages/Revisemovingplat.drawio.png)
 ### 2.7. Passthrough Platforms
 ![passthroughplatforms!](DocImages/storyboardpassthrough.png)
 
