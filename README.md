@@ -38,24 +38,27 @@ Storyboards can be combined when multiple mechanics are introduced within a sing
 You should restructure the headings below to match the order they appear in your level.
 
 ### 2.1. Acid
-
+(DocImages/Acid + Check point storyboard.drawio.png)
 ### 2.2. Checkpoints
-
+(DocImages/Acid + Check point storyboard.drawio.png)
 ### 2.3. Chompers
-
+(DocImages/Storyboard of Chompers.drawio.png)
 ### 2.4. Health Pickups
-
+(DocImages/Storyboard for passthrough platform, spikes, staff.drawio.png)
 ### 2.5. Keys
-
+(DocImages/Acid + Check point storyboard.drawio.png)
 ### 2.6. Moving Platforms
 
 ### 2.7. Passthrough Platforms
+(DocImages/Storyboard for passthrough platform, spikes, staff.drawio.png)
 
 ### 2.8. Spikes
+(DocImages/Storyboard for passthrough platform, spikes, staff.drawio.png)
 
 ### 2.9. Spitters
-
+(DocImages/Storyboard of spitter.drawio.png)
 ### 2.10. Weapon Pickup (Gun)
+(DocImages/Storyboard for passthrough platform, spikes, staff.drawio.png)
 
 ### 2.11. Weapon Pickup (Staff)
 
