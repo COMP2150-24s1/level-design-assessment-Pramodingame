@@ -70,7 +70,7 @@ No additional words are necessary for this section (any words should only be wit
 ### 3.2. Level Map – Section 1
 ![firstlevelmap](DocImages/firstlevelmap.drawio.png)
 ### 3.3.	Level Map – Section 2
-
+![secondlevelmap](DocImages/secondlevelmap.drawio.png)
 ### 3.4.	Level Map – Section 3
 
 ## 4. Iterative Design (~400 words)
