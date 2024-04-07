@@ -70,7 +70,7 @@ No additional words are necessary for this section (any words should only be wit
 ### 3.2. Level Map – Section 1
 ![1stlevelmap](DocImages/firstlevelmap.png)
 ### 3.3.	Level Map – Section 2
-![secondlevelmap](DocImages/secondlevelmap.drawio.png)
+![secondlevelmap](DocImages/secondlevelmap.png)
 ### 3.4.	Level Map – Section 3
 
 
