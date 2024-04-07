@@ -68,7 +68,7 @@ No additional words are necessary for this section (any words should only be wit
 ### 3.1. Molecule Diagram
 
 ### 3.2. Level Map – Section 1
-![Image_showing_the_1st_level_map](DocImages/<1st section of level map.drawio.png>)
+![Image_showing_the_1st_level_map](DocImages/<"1st section of level map.drawio".png>)
 ### 3.3.	Level Map – Section 2
 
 ### 3.4.	Level Map – Section 3
@@ -82,8 +82,7 @@ In the future iteration of developments, I intend to test the game in hands of t
 
 ## Generative AI Use Acknowledgement
 
-Use the below table to indicate any Generative AI or writing assistance tools used in creating your document. Please be honest and thorough in your reporting, as this will allow us to give you the marks you have earnt. Place any drafts or other evidence inside this repository. This form and related evidence do not count to your word count.
-An example has been included. Please replace this with any actual tools, and add more as necessary.
+
 
 
 ### Tool Used: ChatGPT
