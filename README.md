@@ -20,16 +20,26 @@ Outline and justify how your level design facilitates the core player experience
 
 ### 1.1. Discovery
 The game includes many mechanics which the player requires to learn in order to progress.The initial discovery the player may make, are the movement and close range enemy known as ‘chomper’ as well as how to avoid the said enemy. After successfully evading ‘chomper’, player then presented with a long range enemy known as a ‘spitter’ which does damage over projectiles which the player discovers to avoid and get out of the enemy range of attack. After these discoveries, player is presented with a passthrough platform which requires the player to combine various forms of movement combinations to discover how to go to the below level while also being attacked by a ‘spitter’.If a player in reckless, they will discover that ’spikes’ will pose an danger to their adventure.In addition to these discoveries, players are expected to understand spikes,acid, checkpoints, pushable boxes, breakable walls, health boxes, weapons of staff and gun. Players are moderately under pressure to discover the world so that they wont be bored or overwhelmed during the play.
+![Disovery!](DocImages/spitterdiscovery.png)
+![Disovery!](DocImages/Chomperdiscovery.png)
+![Disovery!](DocImages/Breakwall.png)
+![Disovery!](DocImages/Acidbox.png)
+![Disovery!](DocImages/Key.png)
+
+
+
 
 ### 1.2. Drama
 At the beginnig of the level, player is presented with an imminent danger of a ‘chomper’ which forces the player to take swift action to avoid the danger. Once they have avoided the 1st danger, the intense pressure gets reduced and allows them to figure out which way to go in order to progress the game. The difficulty of the game is high till the player acquires any of the weapons. After obtaining a weapon, difficulty of the game drops down and gradually increases. Intensity of the game is at medium when the player is required to pass through acid, as any contact with this danger causes immediate death and minor progression lost.The dramatic intensity is at its highest when the play has to defeat many enemies at once during the encounter of collecting the 2nd key. After they have defeated the enemies and achieved the key, health points are presented as rewards for their great performance  in their attacks while also allowing the current space as a resting place.
 
 ### 1.3. Challenge
 The player is presented with the challenge of collecting 3 keys while avoiding the dangers of spitters, chompers, acid, spikes while also navigating through multiple puzzles and mechanics presented in the game in order to progress to the next level. 1st immediate challenge the player is presented with is the rapidly approaching enemy towards them while having no equipment to defend themselves with and finding a escape route as the next approach. If the player does not figure out the controls and what the next step to take, they end up getting defeated by the 1st enemy. The difficulty is brought down for a short period of time until they encounter the next type of enemy. Next challenge is to avoid the long range enemy knows as ‘spitter’ who fires projectiles towards the player. Players new challenge is to avoid those mentioned attacks as they vary depending on where the player moves. Player is given 2 weapons before they have to defeat many enemies at once in order to get the 2nd key
+
+![Challenge!](DocImages/Challenge.png)
+
 ### 1.4. Exploration
 The game’s objective is to collect 3 keys in order to open the door and progress to next level. By scattering the keys in 3 different locations, player is encouraged to explore the various paths provided. The first enemy encounter at the beginnig of the game allows the player to quickly explore the surrounding areas for a escape route. Player is allowed to see the final key at the beginnig of the level, so that they understand what they need to do. Since the players path to get that key is blocked by an enemy and a wall, they are encouraged to explore the paths provided to them. They are 3 main sections of the game. 1st area the player is exposed to is the surface level which has more green coloured paths, 2nd area requires the player to explore the air with the use of moving platforms in order to get to the 3rd and last area which is the underground section. Environment is lacking of green colour and more dangers are present in this area
 
-![Exploration!](DocImages/spitterdiscovery.png)
 
 ## 2. Core Gameplay (~400 words)
 A section on Core Gameplay, where storyboards are used to outline how you introduce the player to each of the required gameplay elements in the first section of the game. Storyboards should follow the format provided in lectures.
