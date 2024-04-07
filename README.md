@@ -46,7 +46,7 @@ You should restructure the headings below to match the order they appear in your
 ### 2.5. Keys
 ![keys!](DocImages/Acid.png)
 ### 2.6. Moving Platforms
-
+![Movingplatform!](DocImages/Movingplatform.drawio.png)
 ### 2.7. Passthrough Platforms
 ![passthroughplatforms!](DocImages/storyboardpassthrough.png)
 
@@ -61,9 +61,7 @@ You should restructure the headings below to match the order they appear in your
 ![gun!](DocImages/storyboardpassthrough.png)
 
 ## 3. Spatiotemporal Design
-A section on Spatiotemporal Design, which includes your molecule diagram and annotated level maps (one for each main section of your level). These diagrams may be made digitally or by hand, but must not be created from screenshots of your game. The annotated level maps should show the structure you intend to build, included game elements, and the path the player is expected to take through the level. Examples of these diagrams are included in the level design lectures.
 
-No additional words are necessary for this section (any words should only be within your images/diagrams).
  
 ### 3.1. Molecule Diagram
 ![moleculediagram](DocImages/Molecule_diagram.drawio.png)
