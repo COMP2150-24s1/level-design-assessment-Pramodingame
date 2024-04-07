@@ -73,6 +73,7 @@ No additional words are necessary for this section (any words should only be wit
 ![secondlevelmap](DocImages/secondlevelmap.drawio.png)
 ### 3.4.	Level Map – Section 3
 
+
 ## 4. Iterative Design (~400 words)
 During the initial planning of this game, I failed to sufficiently include variety of game objects which will allow increase the challenge of the game. In retrospective, this deficiency of challenge appears to have resulted in the game too easy and this resulted in lack of proper engagement with the game by the player. Furthermore, I discovered that pushable boxes float on acid and this mechanic allowed me to see a possibility of using these boxes as a break from frequent platforms made using tiles. I was faced With the struggle of finding a way to properly implement this ideas as sometimes the player would get hit by the invisible hit box of acid and as a designer, I wasn’t allowed to change any properties. 
 Another issue that was prominent was the lack of sufficient quantity of enemies. After performing several play tests, it was evident that the game was in need of a challenge
